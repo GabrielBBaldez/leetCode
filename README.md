@@ -1,2 +1,2 @@
-# leetCode Solutions or some questions from interviews
+# leetCode Solutions 
 - **[Profile](https://leetcode.com/GabrielBBaldez/)**
